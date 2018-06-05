@@ -1,0 +1,13 @@
+libcose/src/crypt/hacl.c
+libcose/src/crypt/helpers.c
+libcose/src/crypt/sodium.c
+libcose/src/crypt/tweetnacl.c
+libcose/tests/*
+libcose/makefiles/*
+tinycbor/src/cborparser_dup_strings.c
+tinycbor/src/cborpretty_stdio.c
+tinycbor/src/cbortojson.c
+tinycbor/src/open_memstream.c
+tinycbor/tests/*
+tinycbor/tools/*
+tinycbor/examples/*

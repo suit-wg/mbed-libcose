@@ -1,0 +1,6 @@
+[submodule "libcose"]
+	path = libcose
+	url = git@github.com:bergzand/libcose.git
+[submodule "tinycbor"]
+	path = tinycbor
+	url = git@github.com:intel/tinycbor.git
